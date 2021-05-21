@@ -1,2 +1,2 @@
-# website-projects
-Have experience into website development using front end technologies such as html5, css3, bootstrap
+# mermaid-webpage
+Header and Footer part is designer as per the design and it is responsive
